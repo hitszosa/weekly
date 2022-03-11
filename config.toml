@@ -162,6 +162,8 @@ creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 # [Languages.zh-cn]
 # weight = 1
 
+hasCJKLanguage = true
+
 # don't change anything below
 [taxonomies]
 author = "author"
