@@ -8,6 +8,13 @@
 
 ## 参与建设
 
+`git clone`后在工作区执行：
+```shell
+git submodule init
+git submodule update
+```
+以初始化子模块。
+
 使用 `hugo new article/xxx.md` 创建新的周报。
 
 我们希望 Wiki 的内容有正确的格式，所以我们强制要求提交的内容通过 AutoCorrect 检查。
@@ -19,7 +26,7 @@
 
 ## 本地预览
 
-```sheel
+```shell
 hugo server
 ```
 或者加上 `--buildDrafts` 使草稿也被预览。
