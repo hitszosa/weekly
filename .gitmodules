@@ -1,0 +1,3 @@
+[submodule "themes/bilberry-hugo-theme"]
+	path = themes/bilberry-hugo-theme
+	url = https://github.com/Lednerb/bilberry-hugo-theme.git
