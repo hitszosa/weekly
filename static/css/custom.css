@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap");
+
+.content h1 a {
+  font-size: 4rem;
+}
+
+.content h3 {
+  margin-top: 6rem;
+  margin-bottom: 10px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.bilberry-hugo-theme article .content h2 {
+  margin-top: 120px;
+  margin-bottom: 30px;
+  /* margin-bottom: 30px; */
+  font-weight: 500;
+  font-family: "Open Sans", sans-serif;
+  font-size: 4rem;
+}
+
+.bilberry-hugo-theme article .content h2:first-of-type {
+  margin-top: 0;
+}
+
+.content h2 + h3 {
+  margin-top: 2rem;
+}
+
+blockquote p {
+  font-size: 1.3rem;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+}
