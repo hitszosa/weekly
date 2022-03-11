@@ -13,7 +13,7 @@
 }
 
 .bilberry-hugo-theme article .content h2 {
-  margin-top: 120px;
+  margin-top: 70px;
   margin-bottom: 30px;
   /* margin-bottom: 30px; */
   font-weight: 500;
@@ -25,12 +25,20 @@
   margin-top: 0;
 }
 
+.bilberry-hugo-theme article .content p {
+  line-height: 1.8;
+}
+
 .content h2 + h3 {
   margin-top: 2rem;
 }
 
-blockquote p {
-  font-size: 1.3rem;
+.bilberry-hugo-theme article .content blockquote {
+  padding: 1.7rem;
+}
+
+.bilberry-hugo-theme article .content blockquote p {
+  font-size: 14px;
   font-weight: 400;
   font-family: "Open Sans", sans-serif;
 }
