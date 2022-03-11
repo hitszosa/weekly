@@ -17,6 +17,8 @@ git submodule update
 
 以初始化子模块。
 
+使用 `git pull --recurse-submodules` 更新子模块。
+
 **注意**：子模块已更换，请执行 `git submodule sync --recursive` 。
 
 使用 `hugo new article/xxx.md` 创建新的周报。
