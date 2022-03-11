@@ -9,11 +9,15 @@
 ## 参与建设
 
 `git clone`后在工作区执行：
+
 ```shell
 git submodule init
 git submodule update
 ```
+
 以初始化子模块。
+
+**注意**：子模块已更换，请执行 `git submodule sync --recursive` 。
 
 使用 `hugo new article/xxx.md` 创建新的周报。
 
@@ -29,4 +33,5 @@ git submodule update
 ```shell
 hugo server
 ```
+
 或者加上 `--buildDrafts` 使草稿也被预览。
