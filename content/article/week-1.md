@@ -88,7 +88,7 @@ TL;DR: Zulu JRE 一般就足够快了。
 
 呸。
 
-### 拼多多利用 Android shortcut 假冒卸载按钮
+### 拼多多利用 Android Shortcut 假冒卸载按钮
 
 呸。
 
