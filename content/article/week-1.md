@@ -107,7 +107,7 @@ TL;DR: Zulu JRE 一般就足够快了。
 > W: Skipping acquire of configured file 'ui/i18n/Translation-en' as repository '源地址 bullseye InRelease' doesn't have the component 'ui' (component misspelt in sources.list?)
 
 应该是由于忘记添加 raspberrypi 源。
-```
+```sh
 # 编辑 `/etc/apt/sources.list.d/raspi.list` 文件，删除原文件所有内容，用以下内容取代：
 deb http://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ bullseye main
 ```
