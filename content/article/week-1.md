@@ -3,10 +3,6 @@ title: "Week 1"
 date: 2022-03-11T15:24:38+08:00
 ---
 
-第一周周报
-
-<!--more-->
-
 ## 本周群聊
 
 ### 群昵称怎么变 `*` 了？
@@ -40,7 +36,7 @@ Lua 的语言里只有一种数字类型，它有时候是 long 有时候是 dou
 
 某群友起了用 Python 库 `schemdraw` 绘制电路图来写电工作业的歪心思。
 
-### Ultra = Max * 2
+### Ultra = Max \* 2
 
 胶水芯片恐成一代潮流。~~AMD: 喵喵喵？~~
 
@@ -79,8 +75,7 @@ TL;DR: Zulu JRE 一般就足够快了。
 
 > 腾讯云轻量服务器免费升级
 > 2H4G8M 的轻量服务器机型，现在可在后台选择升级套餐至 4H4G8M，费用 0 元
-> 赶快去升级吧~
-> *无忧套餐不参加该活动
+> 赶快去升级吧~ \*无忧套餐不参加该活动
 
 据某群友称有恶性竞价嫌疑，~~不过白嫖谁不喜欢呢~~.
 
@@ -107,10 +102,10 @@ TL;DR: Zulu JRE 一般就足够快了。
 > W: Skipping acquire of configured file 'ui/i18n/Translation-en' as repository '源地址 bullseye InRelease' doesn't have the component 'ui' (component misspelt in sources.list?)
 
 应该是由于忘记添加 raspberrypi 源。
+
 ```
 # 编辑 `/etc/apt/sources.list.d/raspi.list` 文件，删除原文件所有内容，用以下内容取代：
 deb http://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ bullseye main
 ```
 
 > "怎么感觉树莓派官方推荐的系统都不靠谱"
-

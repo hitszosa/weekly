@@ -1,0 +1,23 @@
+@media (max-width: 800px) {
+  .bilberry-hugo-theme header .container {
+    width: fit-content;
+    padding: 2em;
+    /* box-sizing: border-box; */
+  }
+}
+
+.qr-footer {
+  align-items: center;
+  gap: 2em;
+}
+
+.bilberry-hugo-theme a{
+  word-wrap: break-word;
+  text-decoration: underline;
+}
+
+.bilberry-hugo-theme footer .container div.scan-tip {
+  color: darkgray;
+  font-size: 1.2em;
+  margin: 0 !important;
+}

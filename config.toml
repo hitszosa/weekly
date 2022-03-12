@@ -19,8 +19,8 @@ disqusShortname = ""
 # Files are relative to the static/ directory or a URL.
 # Files are imported in the order they appear here, after
 # theme.css and theme.js, respectively.
-css_modules = []
-js_modules = []
+css_modules = ['css/custom.css']
+js_modules = [ 'js/qrcode.min.js','js/for-bot.js',]
 
 # Description and meta data for the search engines
 author = "HITsz LUG"
@@ -81,7 +81,7 @@ subtitle = "这里是 HITsz LUG 周报，记录每周 LUG 奇闻异录。"
 # avatarEmail = "code@lednerb.de"
 
 # set an path to the image file you want to use | overwrites avatar by email
-customImage = "https://raw.githubusercontent.com/hitszlug/hitsz-lug-stickers/penguin/dist/%5Blogo%5D-meta.svg"
+customImage = "stickers/dist/[logo]-meta.svg"
 
 # define the icon you want to use for the overlay for the customImage or avatar.
 overlayIcon = "fa-home"
