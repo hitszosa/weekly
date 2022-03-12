@@ -75,7 +75,7 @@ resizeImages = true
 
 # Header configuration
 # your subtitle if you want to use any
-subtitle = "这里是HITsz LUG 周报，记录每周 LUG 奇闻异录。"
+subtitle = "这里是 HITsz LUG 周报，记录每周 LUG 奇闻异录。"
 
 # if you want to use libravatar or gravatar for the header image
 # avatarEmail = "code@lednerb.de"
