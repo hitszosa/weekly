@@ -1,6 +1,3 @@
 [submodule "themes/bilberry-hugo-theme"]
 	path = themes/bilberry-hugo-theme
 	url = https://github.com/hitszlug/bilberry-hugo-theme.git
-[submodule "static/stickers"]
-	path = static/stickers
-	url = https://github.com/hitszlug/hitsz-lug-stickers.git
