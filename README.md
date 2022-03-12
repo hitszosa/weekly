@@ -17,7 +17,12 @@ git submodule update
 
 以初始化子模块。
 
-使用 `git pull --recurse-submodules` 更新子模块。
+使用如下命令更新子模块：
+
+```sh
+git pull --recurse-submodules
+git submodule update --remote --merge
+```
 
 **注意**：子模块已更换，请执行 `git submodule sync --recursive` 。
 
