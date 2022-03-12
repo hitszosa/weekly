@@ -67,7 +67,7 @@ TL;DR: Zulu JRE 一般就足够快了。
 
 ### 学校高性能计算集群公测 (?)
 
-文档暂时托管在 [LUG wiki](https://wiki.hitsz.org/hpc-doc/main/). 公测期间四舍五入不要钱，而且机子有一摩尔 A100 跟 A35.
+文档暂时托管在 [LUG wiki](https://wiki.hitsz.org/hpc-doc/main/). 公测期间四舍五入不要钱，而且机子有一摩尔 A100 跟 A30.
 
 ### LUG 贴纸仓库
 
