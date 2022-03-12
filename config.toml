@@ -153,8 +153,8 @@ copyrightBy = "CC BY-NC-SA 4.0 by HITsz LUG"
 copyrightUrl = "https://github.com/hitszlug" 
 copyrightUseCurrentYear = true # set to true to always display the current year in the copyright
 copyrightYearOverride = "2022" 
-creditsText = "Bilberry Hugo Theme" 
-creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme" 
+creditsText = "Modified Bilberry Hugo Theme" 
+creditsUrl = "https://github.com/hitszlug/bilberry-hugo-theme" 
 
 # customize your available languages for your multi-lingual site
 # or delete the [Languages] blog to use the theme with only one supported language
