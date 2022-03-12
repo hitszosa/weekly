@@ -23,8 +23,8 @@ jobs:
     - uses: jakejarvis/hugo-build-action@master  # ...or replace 'master' with a full version tag, such as: v0.64.1
       with:
         args: --minify --buildDrafts
-    - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@v4.2.5
-      with:
-          branch: gh-pages # The branch the action should deploy to.
-          folder: public # The folder the action should deploy.
+    # - name: Deploy
+    #   uses: JamesIves/github-pages-deploy-action@v4.2.5
+    #   with:
+    #       branch: gh-pages # The branch the action should deploy to.
+    #       folder: public # The folder the action should deploy.
