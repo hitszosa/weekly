@@ -121,7 +121,7 @@ showFooter = true
 
 # How many articles should be displayed at latest posts in the footer?
 # Set to -1 to hide the 'Latest Posts' column
-amountLatestPostsInFooter = 7
+amountLatestPostsInFooter = 5
 
 # How many categories should be displayed in the footer section?
 # Set to -1 to hide the 'Categories' column
