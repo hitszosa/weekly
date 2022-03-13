@@ -134,7 +134,7 @@ showFooterLanguageChooser = false
 showSocialMedia = true
 
 # show an archive link in the footer
-showArchive = true
+showArchive = false
 
 # archive grouping: "2006" by year, "2006-01" by month
 archiveDateGrouping = "2006-01"
