@@ -25,7 +25,7 @@ js_modules = [ 'js/qrcode.min.js','js/for-bot.js',]
 # Description and meta data for the search engines
 author = "HITsz LUG"
 description = "HITsz LUG 周报"
-keywords = "blog weekly"
+keywords = ["blog", "weekly", "news", "technology", "linux", "computer"]
 
 # How many articles should be displayed at once?
 paginate = 7
@@ -34,12 +34,12 @@ paginate = 7
 enable_mathjax = false
 
 # Enable / Disable algolia search
-algolia_apiKey = "16030625f1a4d0dd3b8aefd794fd4cf1"
-algolia_appId = "45CEN6X6AT"
-algolia_indexName = "bilberry-hugo-theme"
-algolia_search = false
+algolia_search    = true
+algolia_appId     = "PSCK7OYZ69"
+algolia_apiKey    = "2a4435c26d4a6227d41caa9bf6cb59ee"
+algolia_indexName = "hitsz-lug-weekly"
 # Set this option to false if you want to search within all articles in all languages at once
-algolia_currentLanguageOnly = true
+algolia_currentLanguageOnly = false
 
 # Enable / Disable comments on the articles via commento
 # commentoJsURL = "https://commento.lednerb.de/js/commento.js"
@@ -75,7 +75,7 @@ resizeImages = true
 
 # Header configuration
 # your subtitle if you want to use any
-subtitle = "这里是 HITsz LUG 周报，记录每周 LUG 奇闻异录。"
+subtitle = "HITsz LUG 每周的奇闻轶事"
 
 # if you want to use libravatar or gravatar for the header image
 # avatarEmail = "code@lednerb.de"
@@ -121,7 +121,7 @@ showFooter = true
 
 # How many articles should be displayed at latest posts in the footer?
 # Set to -1 to hide the 'Latest Posts' column
-amountLatestPostsInFooter = 7
+amountLatestPostsInFooter = 5
 
 # How many categories should be displayed in the footer section?
 # Set to -1 to hide the 'Categories' column
@@ -134,7 +134,7 @@ showFooterLanguageChooser = false
 showSocialMedia = true
 
 # show an archive link in the footer
-showArchive = false
+showArchive = true
 
 # archive grouping: "2006" by year, "2006-01" by month
 archiveDateGrouping = "2006-01"
@@ -153,8 +153,8 @@ copyrightBy = "CC BY-NC-SA 4.0 by HITsz LUG"
 copyrightUrl = "https://github.com/hitszlug" 
 copyrightUseCurrentYear = true # set to true to always display the current year in the copyright
 copyrightYearOverride = "2022" 
-creditsText = "Bilberry Hugo Theme" 
-creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme" 
+creditsText = "Modified Bilberry" 
+creditsUrl = "https://github.com/hitszlug/bilberry-hugo-theme" 
 
 # customize your available languages for your multi-lingual site
 # or delete the [Languages] blog to use the theme with only one supported language
