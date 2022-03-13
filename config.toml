@@ -25,7 +25,7 @@ js_modules = []
 # Description and meta data for the search engines
 author = "HITsz LUG"
 description = "HITsz LUG 周报"
-keywords = ["blog“， ”weekly"， “news", "technology", "linux", "computer"]
+keywords = ["blog“, ”weekly", “news", "technology", "linux", "computer"]
 
 # How many articles should be displayed at once?
 paginate = 7
