@@ -25,7 +25,7 @@ js_modules = []
 # Description and meta data for the search engines
 author = "HITsz LUG"
 description = "HITsz LUG 周报"
-keywords = "blog weekly"
+keywords = ["blog“， ”weekly"， “news", "technology", "linux", "computer"]
 
 # How many articles should be displayed at once?
 paginate = 7
@@ -75,7 +75,7 @@ resizeImages = true
 
 # Header configuration
 # your subtitle if you want to use any
-subtitle = "这里是 HITsz LUG 周报，记录每周 LUG 奇闻异录。"
+subtitle = "HITsz LUG 每周的奇闻轶事"
 
 # if you want to use libravatar or gravatar for the header image
 # avatarEmail = "code@lednerb.de"
@@ -153,7 +153,7 @@ copyrightBy = "CC BY-NC-SA 4.0 by HITsz LUG"
 copyrightUrl = "https://github.com/hitszlug" 
 copyrightUseCurrentYear = true # set to true to always display the current year in the copyright
 copyrightYearOverride = "2022" 
-creditsText = "Modified Bilberry Hugo Theme" 
+creditsText = "Modified Bilberry" 
 creditsUrl = "https://github.com/hitszlug/bilberry-hugo-theme" 
 
 # customize your available languages for your multi-lingual site
