@@ -1,6 +1,6 @@
 ---
 title: "档案室"
-layout: archive
+type: archive
 excludeFromIndex: true
 excludeFromTopNav: true
 ---
