@@ -34,10 +34,10 @@ paginate = 7
 enable_mathjax = false
 
 # Enable / Disable algolia search
-algolia_apiKey = "16030625f1a4d0dd3b8aefd794fd4cf1"
-algolia_appId = "45CEN6X6AT"
-algolia_indexName = "bilberry-hugo-theme"
-algolia_search = false
+algolia_search    = true
+algolia_appId     = "PSCK7OYZ69"
+algolia_apiKey    = "2a4435c26d4a6227d41caa9bf6cb59ee"
+algolia_indexName = "hitsz-lug-weekly"
 # Set this option to false if you want to search within all articles in all languages at once
 algolia_currentLanguageOnly = true
 
