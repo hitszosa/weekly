@@ -39,7 +39,7 @@ algolia_appId     = "PSCK7OYZ69"
 algolia_apiKey    = "2a4435c26d4a6227d41caa9bf6cb59ee"
 algolia_indexName = "hitsz-lug-weekly"
 # Set this option to false if you want to search within all articles in all languages at once
-algolia_currentLanguageOnly = true
+algolia_currentLanguageOnly = false
 
 # Enable / Disable comments on the articles via commento
 # commentoJsURL = "https://commento.lednerb.de/js/commento.js"
