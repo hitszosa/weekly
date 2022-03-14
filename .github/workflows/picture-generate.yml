@@ -22,15 +22,14 @@ jobs:
       run: hugo serve &
     - name: Install Playwright
       run: |
-        npx playwright install
+        npx playwright install chromium
         npx playwright install-deps
     - name: Get last change and screenshot
       run: |
         export changed=$(git log --name-only -1 content/article/ | tail -n 1 | sed 's+content/\(article/.*\).md+http://127.0.0.1:1313/\1/+g')
-        npx playwright screenshot --full-page --device="iPhone 13 Pro Max" --user-agent="PicBot" $changed changed.png
+        npx playwright screenshot --device="Galaxy S8" --viewport-size="400,400" --user-agent="PicBot" $changed changed.png
     - name: Upload screenshot
       uses: actions/upload-artifact@v3
       with:
         name: changed-screenshot
         path: changed.png
-    # - run: kill %hugo
