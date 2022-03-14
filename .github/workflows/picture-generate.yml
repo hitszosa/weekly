@@ -22,7 +22,7 @@ jobs:
       run: hugo serve &
     - name: Install Playwright
       run: |
-        npx playwright install chromium
+        npx playwright install chrome
         npx playwright install-deps
     - name: Get last change and screenshot
       run: |
