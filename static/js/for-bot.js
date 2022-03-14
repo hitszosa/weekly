@@ -14,14 +14,14 @@ if (navigator.userAgent == "PicBot") {
   footer_container.className += " qr-footer";
 
   var qr_holder = document.createElement("div");
+  const qr_size = 256;
   new QRCode(qr_holder, {
-    text: "http://weekly.hitsz.org" + window.location.pathname,
-    width: 200,
-    height: 200,
+    text: "https://weekly.hitsz.org" + window.location.pathname,
+    width: qr_size,
+    height: qr_size,
     // correctLevel : QRCode.CorrectLevel.H
   });
   qr_holder.style.width = "fit-content";
-  qr_holder.style.margin = 0;
   footer_container.appendChild(qr_holder);
 
   var scan_tip = document.createElement("div");
