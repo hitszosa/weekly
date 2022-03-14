@@ -1,0 +1,29 @@
+name: Weekly Picture Generate
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  generate-and-send:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout 
+      uses: actions/checkout@v3
+      with:
+        submodules: 'true'
+    - name: Start hugo serve in background
+      run: hugo serve &
+    - name: Install Playwright
+      run: npx playwright install
+    - name: Get last change and screenshot
+      run: |
+        export changed=$(git log --name-only -1 content/article/ | tail -n 1 | sed 's+content/\(article/.*\).md+http://127.0.0.1:1313/\1/+g')
+        npx playwright screenshot --full-page $changed changed.png
+    - name: Upload screenshot
+      uses: actions/upload-artifact@v3
+      with:
+        name: changed-screenshot
+        path: changed.png
+    - run: kill %hugo
