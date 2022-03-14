@@ -1,0 +1,37 @@
+name: Weekly Picture Generate
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  generate-on-macos:
+    runs-on: macos-latest
+    steps:
+    - name: Checkout 
+      uses: actions/checkout@v3
+      with:
+        submodules: 'true'
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
+        extended: true
+    - name: Start hugo serve in background
+      run: hugo serve --environment=picture-generate &
+    - name: Install Playwright
+      run: |
+        npx playwright install webkit
+        npx playwright install-deps
+    - name: Get last change and screenshot
+      run: |
+        export changed=$(git log --name-only -1 content/article/ | tail -n 1 | sed 's+content/\(article/.*\).md+http://127.0.0.1:1313/\1/+g')
+        npx playwright screenshot --device="iPhone 13" --viewport-size="400,400" --full-page --user-agent="PicBot" $changed changed.png
+    - name: Upload screenshot
+      uses: actions/upload-artifact@v3
+      with:
+        name: screenshot-macos
+        path: changed.png
