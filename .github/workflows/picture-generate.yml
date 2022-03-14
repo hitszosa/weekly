@@ -21,7 +21,7 @@ jobs:
         hugo-version: 'latest'
         extended: true
     - name: Start hugo serve in background
-      run: hugo serve &
+      run: hugo serve --environment=picture-generate &
     - name: Install Playwright
       run: |
         npx playwright install webkit

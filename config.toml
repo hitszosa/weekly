@@ -19,8 +19,8 @@ disqusShortname = ""
 # Files are relative to the static/ directory or a URL.
 # Files are imported in the order they appear here, after
 # theme.css and theme.js, respectively.
-css_modules = ['css/custom.css']
-js_modules = [ 'js/qrcode.min.js','js/for-bot.js',]
+css_modules = []
+js_modules = []
 
 # Description and meta data for the search engines
 author = "HITsz LUG"
