@@ -7,15 +7,15 @@ date: 2022-03-18T21:28:16+08:00
 
 ### 群名怎么还是 `*` ？
 
-为了表示对腾讯强制修改我们群群资料的抗议，我们决定将群名改为 `*`，群资料改为 `-` ，~~绝对不是我们修改不了~~。并且为了表面我们态度的坚决，我们解散了 LUG core 的 qq 群。
+为了表示对腾讯强制修改我们群群资料的抗议，我们决定将群名改为 `*`，群资料改为 `-` ，~~绝对不是我们修改不了~~。并且为了表面我们态度的坚决，我们解散了 LUG Core 的 QQ 群。
 
 并且因腾讯加大了对群聊资料的审查，出现群友群昵称变成 `*` 的情况。虽然是群友自己改的但还是要谴责腾讯的恶劣行径。
 
 <!--more-->
 
-### dragonwell 的黑魔法
+### Dragonwell 的黑魔法
 
-某群友发现 dragonwell 的黑科技 Wisp ，可直接处理多线程程序的字节码转换成 vm 级别的协程。
+某群友发现 Dragonwell JRE 的黑科技 Wisp ，可直接处理多线程程序的字节码转换成 JVM 级别的协程。
 
 ### 群友锐评 Java
 
@@ -27,7 +27,7 @@ date: 2022-03-18T21:28:16+08:00
 
 > 原价 75 USD
 
-### markdown shebang
+### Markdown shebang
 
 ![markdown shebang](https://user-images.githubusercontent.com/73573254/158622078-0b426747-fa6a-4e2d-968a-4a0d8cf418c3.jpg)
 
@@ -67,7 +67,7 @@ JetBrains 在 Youtube 的广告中译名为 “喷射大脑”。
 
 某群友整了个新活，用 bash 脚本实现了自动上报。[仓库](https://github.com/CH3CHOHCH3/HITSZ-DailyReport)
 
-某群友整了个活上活，基于前者脚本与 GitHub action 实现了自动上报。[仓库](https://github.com/SoraShu/HITSZ-DailyReportAction)
+某群友整了个活上活，基于前者脚本与 GitHub Action 实现了自动上报。[仓库](https://github.com/SoraShu/HITSZ-DailyReportAction)
 
 ### Windows 的幸福工作生活
 
@@ -106,7 +106,7 @@ Linux user 羡慕 Windows，这是否是一种 ntr。
 5. 经过多日斗争，管理 Shiroki 完成了图片版周刊的自动化生成。
 6. launchd 表示这个主题写得真烂，并向该主题的仓库提交了多个 issue 与一个 pr 。
 
-### 微软开始在 win11 文件资源管理器测试“广告”
+### 微软开始在 Win11 文件资源管理器测试“广告”
 
 “呸！”  ——by 萝，于第一周周刊
 
@@ -120,7 +120,7 @@ Linux user 羡慕 Windows，这是否是一种 ntr。
 
 正道的光。
 
-### GO 1.18 正式发布，支持泛型
+### Golang 1.18 正式发布，支持泛型
 
 > 小而美（不是  
 > 大道至简  
@@ -166,7 +166,7 @@ OpenSSL 3.0.2 跟 1.1.1n 修复了该漏洞。
 
 某群友表示遇到了 `error success` 的 log ，并表示希望入选今年茅盾文学奖。
 
-### autocorrect 误杀
+### AutoCorrrect 误杀
 
 ![截图](https://user-images.githubusercontent.com/73573254/158619762-cb2541c4-8efc-49ba-b529-cf5acec34ba0.jpg)
 
@@ -200,7 +200,7 @@ OpenSSL 3.0.2 跟 1.1.1n 修复了该漏洞。
 
 ### python 3.10.0 版本识别错误
 
-vscode 识别 python 版本出错，Pylance 拓展报错。
+VS Code 识别 Python 版本出错，Pylance 拓展报错。
 
 某群友：成功浪费了我半个晚上的时间
 
@@ -208,7 +208,7 @@ vscode 识别 python 版本出错，Pylance 拓展报错。
 
 ### 代码优化卷翻天：莫队交易赛复盘
 
-是的，就是 oi 里的 "莫队", 莫涛，曾经的国家队队长，举行了一场模拟高频交易的比赛。[这篇知乎文章](https://zhuanlan.zhihu.com/p/470766162)介绍了作者，一位系统工程师的参赛经历与赛后思考。
+是的，就是 OI 里的 "莫队", 莫涛，曾经的国家队队长，举行了一场模拟高频交易的比赛。[这篇知乎文章](https://zhuanlan.zhihu.com/p/470766162)介绍了作者，一位系统工程师的参赛经历与赛后思考。
 
 ### 原来这才是 Socket!
 
