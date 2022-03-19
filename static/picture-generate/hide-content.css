@@ -1,0 +1,9 @@
+.bilberry-hugo-theme article .content h3 {
+  margin: 1em 0 1em 0.5em;
+  border-bottom: none;
+  padding: 0;
+}
+
+.bilberry-hugo-theme article .content > *:not(h1):not(h2):not(h3) {
+  display: none !important;
+}

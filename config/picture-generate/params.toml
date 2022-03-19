@@ -1,2 +1,2 @@
-css_modules = ['picture-generate/custom.css']
+css_modules = ['picture-generate/custom.css', 'picture-generate/hide-content.css']
 js_modules = ['picture-generate/awesome-qr.js', 'picture-generate/for-bot.js']
