@@ -3,6 +3,11 @@
 var nav = document.getElementsByClassName("toggler permanentTopNav")[0];
 nav.style.display = "none";
 
+if (navigator.userAgent.includes("hide-content")) {
+  var content = document.getElementsByClassName("content")[0];
+  content.className += " hide-content";
+}
+
 var footer_container = document
   .evaluate(
     "/html/body[@class='bilberry-hugo-theme']/footer/div[@class='container']",
@@ -17,7 +22,9 @@ const qr_size = 256;
 new AwesomeQR.AwesomeQR({
   text: "https://weekly.hitsz.org" + window.location.pathname,
   size: qr_size,
-}).draw().then((dataURL) => qr_holder.src = dataURL);
+})
+  .draw()
+  .then((dataURL) => (qr_holder.src = dataURL));
 footer_container.appendChild(qr_holder);
 
 var scan_tip = document.createElement("div");
