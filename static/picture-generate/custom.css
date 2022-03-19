@@ -3,6 +3,18 @@
   gap: 2em;
 }
 
+.bilberry-hugo-theme .main .article-wrapper.single {
+  padding-bottom: 0;
+}
+
+.bilberry-hugo-theme #comments-container {
+  display: none;
+}
+
+.bilberry-hugo-theme footer {
+  background: none;
+}
+
 .bilberry-hugo-theme article .content h1 a {
   text-decoration: none !important;
 }
