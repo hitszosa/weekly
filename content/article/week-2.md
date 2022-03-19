@@ -216,7 +216,7 @@ VS Code 识别 Python 版本出错，Pylance 拓展报错。
 
 ### 如何有理有据地说服其他程序员
 
-这篇[博客](https://chinese.catchen.me/2021/06/how-to-argue-with-another-programmer.html)介绍了程序员开发工作中沟通的常见问题与解决方案。
+[这篇博客](https://chinese.catchen.me/2021/06/how-to-argue-with-another-programmer.html)介绍了程序员开发工作中沟通的常见问题与解决方案。
 
 > **TL;DR** 当两个相对聪明和胜任的程序员对同一个问题持有截然不同的观点时，往往问题出现在大家对问题的定义不一样。争辩观点对错的往往并不能达成一致，这时候必须先确认大家在讨论的是同一个问题。如果没办法对齐（align）问题，尤其是当双方的优先级（priority）不一致时，争辩问题的解决方案是不可能有结果的。
 
@@ -224,7 +224,7 @@ VS Code 识别 Python 版本出错，Pylance 拓展报错。
 
 最近被广泛使用的前端包 `node-ipc` 被发现加入了疑似恶意的功能：当检测到用户 IP 地址在俄罗斯/白俄罗斯时，有概率覆写用户的文件。在正常情况还会在用户的桌面/OneDrive 创建特殊的文件，[详情可见 v2ex](https://www.v2ex.com/t/840562).
 
-之前，著名前端包 faker.js 作者愤然删库，抗议大公司白嫖其项目。
+之前，著名前端包 faker.js 作者愤然删库，抗议大公司白嫖其项目。该项目也有投毒行为。
 
 世界上没有绝对好的东西，这篇[博客](http://qingbob.com/darkside-of-the-opensource/)里作者反思了目前开源的各种问题。
 
