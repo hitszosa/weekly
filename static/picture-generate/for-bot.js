@@ -12,15 +12,12 @@ var footer_container = document
 footer_container.innerHTML = "";
 footer_container.className += " qr-footer";
 
-var qr_holder = document.createElement("div");
+var qr_holder = document.createElement("img");
 const qr_size = 256;
-new QRCode(qr_holder, {
+new AwesomeQR.AwesomeQR({
   text: "https://weekly.hitsz.org" + window.location.pathname,
-  width: qr_size,
-  height: qr_size,
-  // correctLevel : QRCode.CorrectLevel.H
-});
-qr_holder.style.width = "fit-content";
+  size: qr_size,
+}).draw().then((dataURL) => qr_holder.src = dataURL);
 footer_container.appendChild(qr_holder);
 
 var scan_tip = document.createElement("div");

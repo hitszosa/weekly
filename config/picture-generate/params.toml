@@ -1,2 +1,2 @@
 css_modules = ['picture-generate/custom.css']
-js_modules = ['picture-generate/qrcode.min.js', 'picture-generate/for-bot.js']
+js_modules = ['picture-generate/awesome-qr.js', 'picture-generate/for-bot.js']
