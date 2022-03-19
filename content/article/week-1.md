@@ -85,9 +85,13 @@ TL;DR: Zulu JRE 一般就足够快了。
 
 呸。
 
+![](https://user-images.githubusercontent.com/12044683/158317239-64b50c1e-dbe9-4ab0-ac2b-c3432530031d.jpg)
+
 ### 拼多多利用 Android Shortcut 假冒卸载按钮
 
 呸。
+
+![](https://user-images.githubusercontent.com/12044683/158312809-865007d4-efd5-4421-b8f1-efdff9d65154.jpg)
 
 ## 奇奇怪怪的 Bug
 
