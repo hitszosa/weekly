@@ -23,6 +23,16 @@
   text-decoration: underline;
 }
 
+.bilberry-hugo-theme article .hide-content h3 {
+  margin: 1em 0 1em 0.5em;
+  border-bottom: none;
+  padding: 0;
+}
+
+.bilberry-hugo-theme article .hide-content > *:not(h1):not(h2):not(h3) {
+  display: none !important;
+}
+
 .bilberry-hugo-theme footer .container .scan-tip {
   color: #858585;
   font-size: 1.2em;
