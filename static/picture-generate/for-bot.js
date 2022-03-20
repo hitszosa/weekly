@@ -24,10 +24,11 @@ title_line.parentElement.insertBefore(footer_container, title_line.nextSibling);
 var week_count = window.location.pathname.match(/week-(\d+)/)[1];
 
 var qr_holder = document.createElement("img");
-var qr_size = 128;
+var qr_size = 100 * window.devicePixelRatio;
 new AwesomeQR.AwesomeQR({
   text: "w.lug.pub/" + week_count,
   size: qr_size,
+  margin: 0,
 })
   .draw()
   .then((dataURL) => (qr_holder.src = dataURL));
@@ -36,5 +37,5 @@ footer_container.appendChild(qr_holder);
 var scan_tip = document.createElement("div");
 scan_tip.className = "scan-tip";
 scan_tip.innerHTML =
-  "请访问 w.lug.pub/" + week_count + "<br>或长按扫码打开全文";
+  "请访问 w.lug.pub/" + week_count + "<br>或长按扫码浏览全文";
 footer_container.appendChild(scan_tip);

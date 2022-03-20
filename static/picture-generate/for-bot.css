@@ -2,7 +2,7 @@
   align-items: center;
   display: flex;
   flex-direction: row;
-  font-size: large;
+  font-size: larger;
   justify-content: space-around;
   margin-top: 1.5em;
   text-align: center;
@@ -10,16 +10,25 @@
 
 .qr-footer > img {
   margin: 0 !important;
+  width: 100px;
+  height: 100px;
 }
 
 .content .qr-footer {
   margin-top: 2em;
 }
 
+.hide-content .qr-footer {
+  margin-top: 0;
+}
+
+.hide-content .qr-footer + h2 {
+  margin-top: 0.75em !important;
+}
+
 .scan-tip {
-  color: #858585;
+  color: #555;
   margin: 0 !important;
-  padding: 0.5em;
 }
 
 .bilberry-hugo-theme .main .article-wrapper.single {
@@ -48,6 +57,9 @@
   padding: 0;
 }
 
-.bilberry-hugo-theme article .hide-content > *:not(h1):not(h2):not(h3) {
+.bilberry-hugo-theme
+  article
+  .hide-content
+  > *:not(h1):not(h2):not(h3):not(.meta):not(.qr-footer) {
   display: none !important;
 }
