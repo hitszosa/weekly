@@ -1,6 +1,25 @@
 .qr-footer {
   align-items: center;
-  gap: 2em;
+  display: flex;
+  flex-direction: row;
+  font-size: large;
+  justify-content: space-around;
+  margin-top: 1.5em;
+  text-align: center;
+}
+
+.qr-footer > img {
+  margin: 0 !important;
+}
+
+.content .qr-footer {
+  margin-top: 2em;
+}
+
+.scan-tip {
+  color: #858585;
+  margin: 0 !important;
+  padding: 0.5em;
 }
 
 .bilberry-hugo-theme .main .article-wrapper.single {
@@ -31,10 +50,4 @@
 
 .bilberry-hugo-theme article .hide-content > *:not(h1):not(h2):not(h3) {
   display: none !important;
-}
-
-.bilberry-hugo-theme footer .container .scan-tip {
-  color: #858585;
-  font-size: 1.2em;
-  margin: 0 !important;
 }
