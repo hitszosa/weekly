@@ -26,7 +26,7 @@ var week_count = window.location.pathname.match(/week-(\d+)/)[1];
 var qr_holder = document.createElement("img");
 var qr_size = 100 * window.devicePixelRatio;
 new AwesomeQR.AwesomeQR({
-  text: "w.lug.pub/" + week_count,
+  text: "https://w.lug.pub/" + week_count,
   size: qr_size,
   margin: 0,
 })
