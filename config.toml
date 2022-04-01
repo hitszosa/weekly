@@ -45,17 +45,17 @@ algolia_currentLanguageOnly = false
 # commentoJsURL = "https://commento.lednerb.de/js/commento.js"
 
 # Enable / Disable Giscus comments
-giscus = true
-giscusCategory = "Announcements"
-giscusCategoryId = "DIC_kwDOG-4DWc4COXml"
+giscus = false
+giscusCategory = "[ENTER CATEGORY NAME HERE]"
+giscusCategoryId = "[ENTER CATEGORY ID HERE]"
 giscusCrossOrigin = "anonymous"
 giscusEmitMetadata = "0"
 giscusJsUrl = "https://giscus.app/client.js"
-giscusLanguage = "zh-cn"
+giscusLanguage = "en"
 giscusMapping = "pathname"
 giscusReactions = "1"
-giscusRepository = "hitszlug/weekly"
-giscusRepositoryId = "R_kgDOG-4DWQ"
+giscusRepository = "[ENTER REPO HERE]"
+giscusRepositoryId = "[ENTER REPO ID HERE]"
 giscusTheme = "light"
 
 # Enable / Disable Utterances comments
