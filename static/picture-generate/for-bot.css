@@ -26,6 +26,10 @@
   margin-top: 0.75em !important;
 }
 
+.bilberry-hugo-theme header .container {
+	width: fit-content;
+}
+
 .scan-tip {
   color: #555;
   margin: 0 !important;
