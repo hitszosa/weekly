@@ -11,8 +11,6 @@ date: 2022-04-02T02:50:01Z
 
 ![WUG](https://user-images.githubusercontent.com/73573254/161370211-4715a905-aaba-4ace-9144-c3c2939f16e6.png)
 
-<!--more-->
-
 ### 镜像站迁移
 
 LUG 镜像站换用第四代融盐核动力堆，目前已稳定运行一周。新镜像站采用了量子储存技术，目前空间富足，有需求的同学可申请新镜像。
@@ -20,6 +18,8 @@ LUG 镜像站换用第四代融盐核动力堆，目前已稳定运行一周。�
 ### LUG 下属组织筹备建立
 
 镜像站测试阶段的压力测试中，由于负载过大意外产生了可控的核聚变，我们决定成立下属组织 FRG (Fusion Research Group) 研究此现象。该组织目前仍处于筹备阶段，具体事项将延期至 LUG 正式更名之后。
+
+<!--more-->
 
 ### Happy April Fool Yesterday!
 
@@ -55,6 +55,7 @@ LUG 镜像站换用第四代融盐核动力堆，目前已稳定运行一周。�
 - 咕噜咕噜: Google
 - 鸡: VPS/云服务器
 - 大盘鸡：硬盘很大的鸡
+- 直博：直播
 
 ### Windows 编码
 
@@ -129,6 +130,36 @@ Antlr4 砍掉了 Antlr3 里的树重写和 tree grammar，某群友表示这波�
 
 什么二刺螈，我不是我没有，哪里有二刺螈？？？
 
+### 满佬学会直播了！
+
+直播做计算方法作业。（然而实际在写 CPU）（说明学计算方法要从 CPU 造起）
+
+> 呜呜，满神好强。—— By 满神
+
+### 好怪的 one.one.one.one
+
+某群友直呼 CloudFlare 1.1.1.1 服务器的域名 [one.one.one.one](https://one.one.one.one) 好怪，另一群友发问为何无 eight.eight.eight.eight。
+
+为什么呢？~~（肯定又是共济会蜥蜴人的阴谋）~~
+
+### 如何入门 Podman
+
+正解：入门 Docker，然后 `alias podman=docker` 。
+
+### 套中套 WSA
+
+到底能不能在 macOS 中通过 Parallels Desktop 跑 Windows，然后在 Windows 中跑 Windows Subsystem for Android 呢？
+
+（无下文）
+
+### Powershell 是废物
+
+> Powershell 怎么啥都补不了啊？
+> 什么废物东西（
+> 感觉 Git Bash 体验都更好。
+
+据说启用 `PSReadLine` 能缓解症状，~~微软确实没救了~~。
+
 ## 本周旧闻慢递
 
 ### 安卓内核与 Linux 内核开发关系
@@ -175,15 +206,15 @@ Ref: <https://source.android.com/devices/architecture/kernel/android-common>
 
 ### 华为云桌面
 
-> 通过华为 HDP 高清传输协议（HUAWEI Delivery Protocol），华为云桌面能够为用户带来高清视觉享受下的流畅办公体验，保障 YUV444 真彩无损显示、专业 10bit 色深柔滑细腻、4K / 60 帧高动态场景流畅
+> 通过华为 HDP 高清传输协议（HUAWEI Delivery Protocol），华为云桌面能够为用户带来高清视觉享受下的流畅办公体验，保障 YUV444 真彩无损显示、专业 10bit 色深柔滑细腻、4K / 60 帧高动态场景流畅。
 
-某群友：表示非常怀疑
+某群友：表示非常怀疑。
 
 Ref: <https://www.ithome.com/0/610/895.htm>
 
-### 满佬学会直播了！
+### OSChina 歪了
 
-直播做计算方法作业（然而实际在写 CPU）（说明学计算方法要从 CPU 造起）
+强迫症震怒，愚人节玩笑差不多得了😅。
 
 ## 本周奇怪 Bug
 
@@ -220,6 +251,12 @@ Firefox Nightly for Windows 100.0a1 (2022-03-28) 无法正确显示 GitHub 的�
 > 前情提要：[第一周周报](https://weekly.hitsz.org/article/week-1/#conda--%E7%B3%BB%E7%BB%9F%E4%BB%A3%E7%90%86--http-%E9%94%99%E8%AF%AF)
 
 conda or pip + 系统代理 == http 错误？最终证明是 win + python 特有 bug。详见此 [issue](https://github.com/Fndroid/clash_for_windows_pkg/issues/1787) 与此[文章](https://note.bobo.moe/2021/02/clash-for-windows-pip-proxyerror.html)
+
+### 微软边缘
+
+微软的玄妙人工智障翻译又整活了，~~继「功率」「坐和放宽」等著名术语之后~~，我们有了「微软边缘」！
+
+BTW，微软的安装程序（MSI）官方钦定翻译居然是微星。
 
 ## 本周看了啥
 
