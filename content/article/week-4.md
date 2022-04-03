@@ -11,6 +11,8 @@ date: 2022-04-02T02:50:01Z
 
 ![WUG](https://user-images.githubusercontent.com/73573254/161370211-4715a905-aaba-4ace-9144-c3c2939f16e6.png)
 
+<!--more-->
+
 ### 镜像站迁移
 
 LUG 镜像站换用第四代融盐核动力堆，目前已稳定运行一周。新镜像站采用了量子储存技术，目前空间富足，有需求的同学可申请新镜像。
@@ -18,8 +20,6 @@ LUG 镜像站换用第四代融盐核动力堆，目前已稳定运行一周。�
 ### LUG 下属组织筹备建立
 
 镜像站测试阶段的压力测试中，由于负载过大意外产生了可控的核聚变，我们决定成立下属组织 FRG (Fusion Research Group) 研究此现象。该组织目前仍处于筹备阶段，具体事项将延期至 LUG 正式更名之后。
-
-<!--more-->
 
 ### Happy April Fool Yesterday!
 
@@ -154,8 +154,8 @@ Antlr4 砍掉了 Antlr3 里的树重写和 tree grammar，某群友表示这波�
 
 ### Powershell 是废物
 
-> Powershell 怎么啥都补不了啊？
-> 什么废物东西（
+> Powershell 怎么啥都补不了啊？  
+> 什么废物东西（  
 > 感觉 Git Bash 体验都更好。
 
 据说启用 `PSReadLine` 能缓解症状，~~微软确实没救了~~。
