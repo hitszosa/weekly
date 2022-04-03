@@ -266,6 +266,8 @@ BTW，微软的安装程序（MSI）官方钦定翻译居然是微星。
 
 某群友：明明是 Chrome 10。
 
+Chrome 缓解措施：打开浏览器，进入 [chrome://flags/#force-major-version-to-minor](chrome://flags/#force-major-version-to-minor) 中启用该实验性选项。
+
 ## 本周看了啥
 
 ### 儿童 DE——SoaS
