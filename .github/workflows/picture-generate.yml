@@ -37,7 +37,7 @@ jobs:
           --mozjpeg '{"quality":75,"smoothing":0,"auto_subsample":false,"chroma_subsample":2,
           "separate_chroma_quality":false,"chroma_quality":70}' changed.png
       - run: |
-          export output_name=$(git log --name-only -1 content/article/ | tail -n 1 | sed 's+content/\(article/.*\).md+\1+g')
+          export output_name=$(git log --name-only -1 content/article/ | tail -n 1 | sed 's+content/article/\(.*\).md+\1+g')
           mv changed.png $output_name.png
           mv changed-hide-content.png $output_name-hide-content.png
           mv changed.jpg $output_name-compressed.jpg
