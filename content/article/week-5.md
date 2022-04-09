@@ -17,7 +17,6 @@ date: 2022-04-09T14:04:00+08:00
 
 不过 `diff` 的时候还是 GUI 比较方便，所以某群友表示除了 `diff` 基本不用 GUI。
 
-
 <!--todo-->
 
 ## 本周旧闻慢递
@@ -37,5 +36,11 @@ date: 2022-04-09T14:04:00+08:00
 <!--todo-->
 
 ## 本周看了啥
+
+### 访问校内服务的错误方法
+
+~~会被安全中心暴打的文章~~
+
+[https://blog.origami404.top/post/2022-04-visit-intranet-the-wrong-way/](https://blog.origami404.top/post/2022-04-visit-intranet-the-wrong-way/)
 
 <!--todo-->
