@@ -103,7 +103,7 @@ LUG 成员光速出正常版教程：[HITsz Wiki: 计算机组成原理实验 1 
 
 ### 资本家许可证
 
-群友 A: 既然有禁止非 GPL 项目使用的许可证 (GPL), 那有没有禁止 GPL 项目使用的许可证啊？
+群友 A: 既然有禁止非 GPL 项目使用的许可证 (GPL)，那有没有禁止 GPL 项目使用的许可证啊？
 
 群友 B: ?
 
@@ -233,11 +233,11 @@ Java 8 之后，Java 新加入的 lambda 表达式，Optional 跟 Stream，还�
 
 ### 教育对人的改变有多大？
 
-一篇[博文](https://xiaohanyu.me/posts/2017-02-13-about-education/), 讲述了博主如何借助教育改变了他亲弟弟的人生轨迹，曾经火过一会。
+一篇[博文](https://xiaohanyu.me/posts/2017-02-13-about-education/)，讲述了博主如何借助教育改变了他亲弟弟的人生轨迹，曾经火过一会。
 
 ### 互联网还会变好吗？极客精神与 Web 3
 
-晚点团队的一篇[微信文章](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247492429&idx=1&sn=5bca4865c8738c09e7ec2380780ac3db), 介绍了互联网组织方式的演变，展望了 Web 3
+晚点团队的一篇[微信文章](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247492429&idx=1&sn=5bca4865c8738c09e7ec2380780ac3db)，介绍了互联网组织方式的演变，展望了 Web 3
 
 ### The Linux Programming Interface
 
@@ -245,4 +245,4 @@ Java 8 之后，Java 新加入的 lambda 表达式，Optional 跟 Stream，还�
 
 ### 开源运营当论迹不论心
 
-一篇[博文](https://xuanwo.io/reports/2022-13/), 博主对最近 [TDengine](https://github.com/taosdata/TDengine) 开源社区运营中的一些失误发表了自己的观点，并描述了他心中有效的开源社区运营方式。
+一篇[博文](https://xuanwo.io/reports/2022-13/)，博主对最近 [TDengine](https://github.com/taosdata/TDengine) 开源社区运营中的一些失误发表了自己的观点，并描述了他心中有效的开源社区运营方式。
