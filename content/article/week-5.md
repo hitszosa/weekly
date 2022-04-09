@@ -21,9 +21,9 @@ date: 2022-04-09T14:04:00+08:00
 
 > 这不比啥 WeChat OS 好多了
 
-### Go 的好
+### Golang 的好
 
-群友 A：go 好！
+群友 A：Go 好！
 
 群友 A：学了一周和学了一年写出来的代码一样烂
 
@@ -178,9 +178,11 @@ Java 8 之后，Java 新加入的 lambda 表达式，Optional 跟 Stream，还�
 
 <https://arxiv.org/abs/2203.16713>
 
-### B 站公布旗下耳机消费平台 bilipods
+### B 站公布旗下耳机消费品牌 bilipods
 
 <https://www.ithome.com/0/611/570.htm>
+
+![bilipods 公告局部](https://user-images.githubusercontent.com/12044683/162579234-86c9d9c3-3698-41b5-b9b2-7fd30672ad96.png)
 
 > 群友直呼：什么 b 耳机
 >
@@ -192,9 +194,11 @@ Java 8 之后，Java 新加入的 lambda 表达式，Optional 跟 Stream，还�
 
 ~~看起来有点丑~~
 
-### Windows 11 实体版上架微软香港网站
+### Windows 11 实体版上架微软香港官方商城
 
 <https://www.ithome.com/0/611/910.htm>
+
+![微软商城截图](https://user-images.githubusercontent.com/12044683/162579324-dfab30fe-161f-4b15-9a05-c4b5486f3eac.png)
 
 有一说一，看起来还真挺好看。
 
@@ -204,7 +208,7 @@ Java 8 之后，Java 新加入的 lambda 表达式，Optional 跟 Stream，还�
 
 ![从 PDF 里复制出来的命令](https://user-images.githubusercontent.com/29816865/162575873-c1ee96fe-eb09-46d0-be6c-e05c53cf7345.jpg)
 
-群友直批："愚昧 latex 的 codelisting"
+群友直批：“愚昧 latex 的 codelisting”
 
 ### VBox 的奇妙 UEFI 固件
 
