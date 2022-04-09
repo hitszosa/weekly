@@ -212,7 +212,7 @@ Java 8 之后，Java 新加入的 lambda 表达式，Optional 跟 Stream，还�
 
 ### VBox 的奇妙 UEFI 固件
 
-如果你使用 VBox 的 EFI 模式的话，你有可能会直接掉进 VBox 的玄妙 UEFI Shell 中。参见这两篇文章：[文章 1]()，[文章 2]()。
+如果你使用 VBox 的 EFI 模式的话，你有可能会直接掉进 VBox 的玄妙 UEFI Shell 中。参见这两篇文章：[文章 1](https://262235.xyz/index.php/archives/97/)，[文章 2](https://262235.xyz/index.php/archives/925/)。
 
 ### VBox: CPU Stuck!
 
