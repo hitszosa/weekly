@@ -7,17 +7,17 @@ date: 2022-04-09T14:04:00+08:00
 
 > 温馨提醒：不同三级标题内的群友代号（A，B，C……）并不指代同一名群友哦。
 
-### 预告：HITsz Customize Debian
+### 预告：HITsz Customized Debian
 
-![HITsz Customize Debian 截图](https://user-images.githubusercontent.com/29816865/162575876-c145cdc3-5232-444e-8a21-e112b75cae11.jpg)
+![HITsz Customized Debian 截图](https://user-images.githubusercontent.com/29816865/162575876-c145cdc3-5232-444e-8a21-e112b75cae11.jpg)
 
 目前绝赞调试中。
 
 <!--more-->
 
-### VSCode OS
+### VS Code OS
 
-啥时候 VSCode 能进化成 OS 啊（快去抢 Emacs 的称号！）
+啥时候 VS Code 能进化成 OS 啊（快去抢 Emacs 的称号！）
 
 > 这不比啥 WeChat OS 好多了
 
