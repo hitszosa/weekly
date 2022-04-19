@@ -275,6 +275,40 @@ $ spike pk 1.exec
 
 ## 本周看了啥
 
+### 前端低代码框架 AMIS
+
+AMIS：<https://github.com/baidu/amis>
+
+由百度团队牵头。前端低代码框架，通过 JSON 配置就能生成各种页面。支持 SDK 和 React 两种方式调用。
+
+一个项目本来想照例手搓前端，奈何精力不足，deadline 在即，只能投靠低码框架。
+
+### 来自 `sudo` 的训诫 
+
+sudoers(5): <https://man.archlinux.org/man/sudoers.5.en>
+
+这个 manual 的“[SUDOERS OPTIONS](https://man.archlinux.org/man/sudoers.5.en#SUDOERS_OPTIONS)”小节提到了“lecture”——用户使用 `sudo` 时终端输出的简短文本，默认情况下只会在某个用户未曾正确输入密码的情况下显示。
+
+而未指定 lecture 时所使用的内置文本（locale 为 `en_US.utf8`）如下：
+
+> We trust you have received the usual lecture from the local System
+> Administrator. It usually boils down to these three things:
+>
+>     #1) Respect the privacy of others.
+>     #2) Think before you type.
+>     #3) With great power comes great responsibility.
+
+相信每一个系统管理员都曾看过这段话，这段话堪比医学中的希波克拉底誓词。希望大家都能将其精神牢记在心，与君共勉。
+
+> 中文版本
+> 
+> 我们信任您已经从系统管理员那里了解了日常注意事项
+> 总结起来无外乎这三点：
+>
+>   #1) 尊重别人的隐私
+>   #2) 输入前要先考虑 (后果和风险)
+>   #3) 权力越大，责任越大
+
 ### Slidev
 
 一个简单的用 Markdown 写幻灯片的框架。通过跟 StackBlitz 的集成可以做到直接在线写在线放。
