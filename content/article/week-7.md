@@ -26,6 +26,14 @@ draft: true # remove this line to post
 
 [红米 AC2100 刷机记录](https://blog.origami404.top/post/2022-04-route/)
 
+### 同一个群友的 ChromeBook 刷机 Blog
+
+[HP Chromebook 13G1 刷机记录](https://blog.origami404.top/post/2022-04-chromebook/)
+
+### x 图
+
+![](https://user-images.githubusercontent.com/19954398/164965520-418d46b9-18f6-4608-b041-cbc9a5c8d16c.png)
+
 ## 本周奇怪 Bug
 
 ### TIM 和 B 站无法连接
