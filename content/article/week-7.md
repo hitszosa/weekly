@@ -71,7 +71,7 @@ SIG: special interest group，特别兴趣小组
 
 群友 A: jazz 味≈配错和弦
 
-群友 B: 那事 week decision（
+群友 B: 那事 weak decision（
 
 ### 网络安全
 
