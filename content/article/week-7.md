@@ -14,11 +14,17 @@ draft: true # remove this line to post
 
 > Jammy Jellyfish
 
-- [Canonical Ubuntu 22.04 LTS is released](https://ubuntu.com/blog/ubuntu-22-04-lts-released)
+[Canonical Ubuntu 22.04 LTS is released](https://ubuntu.com/blog/ubuntu-22-04-lts-released)
+
+### QEMU 7.0.0 发布
+
+> 群友： 好！有 RISC-V KVM
+
+[QEMU version 7.0.0 released](https://www.qemu.org/2022/04/19/qemu-7-0-0/)
 
 ### 群友的路由刷机 Blog
 
-- [红米 AC2100 刷机记录](https://blog.origami404.top/post/2022-04-route/)
+[红米 AC2100 刷机记录](https://blog.origami404.top/post/2022-04-route/)
 
 ## 本周奇怪 Bug
 
