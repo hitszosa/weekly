@@ -347,6 +347,8 @@ https://learningsynths.ableton.com/zh-Hans
 
 https://learningmusic.ableton.com/zh-Hans/
 
+https://zhuanlan.zhihu.com/p/395134247
+
 ### 新的编辑器？
 
 https://github.com/lite-xl/lite-xl
