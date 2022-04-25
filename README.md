@@ -32,7 +32,7 @@ git submodule update --remote --merge
 
 使用方法：
 
-1. 安装 vscode 插件。已写入工作区建议。
+1. 安装 VS Code 插件。已写入工作区建议。
 2. 安装 [AutoCorrect](https://github.com/huacnlee/autocorrect) 并在提交前执行 `autocorrect --fix ./` 。
 
 ## 本地预览
