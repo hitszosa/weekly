@@ -45,3 +45,5 @@ draft: true # remove this line to post
 ### 群主看了啥
 
 - [Transparently running binaries from any architecture in Linux with QEMU and binfmt_misc](https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/)
+- [What's new in CPUs since the 80s?](https://danluu.com/new-cpu-features/)
+- [hughperkins/VeriGPU: OpenSource GPU, in Verilog, loosely based on RISC-V ISA](https://github.com/hughperkins/VeriGPU)
