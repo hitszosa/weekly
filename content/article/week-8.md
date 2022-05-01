@@ -128,9 +128,9 @@ date: 2022-04-30T13:20:52+08:00
 
 群友 C: 折纸会是不是可以翻译成 origami meeting
 
-群友 D: 啥折纸会
+shiroki: 啥折纸会
 
-群友 D: 上次 talk 我还是去了的好吧
+shiroki: 上次 talk 我还是去了的好吧
 
 群友 E: 来点 comic con
 
@@ -146,7 +146,7 @@ shiroki: 啥折纸会
 
 群友 C: 由于只有一把剪刀，我们只能对剪刀进行时分复用
 
-群友 D: 草
+shiroki: 草
 
 群友 F: TDMA 是吧
 
@@ -330,7 +330,7 @@ https://www.zhihu.com/question/27834147/answer/38337425
 
 ### 一本纸质漫画是如何诞生的
 
-知乎日报: https://daily.zhihu.com/story/9747757
+知乎日报: <https://daily.zhihu.com/story/9747757>
 
 ### 群主看了啥
 
