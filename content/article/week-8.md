@@ -338,3 +338,11 @@ https://www.zhihu.com/question/27834147/answer/38337425
 - [What is new in CPUs since the 80s?](https://danluu.com/new-cpu-features/)
 - [hughperkins/VeriGPU: OpenSource GPU, in Verilog, loosely based on RISC-V ISA](https://github.com/hughperkins/VeriGPU)
 - [Branch predictor: How many ifs are too many? Including x86 and M1 benchmarks!](https://blog.cloudflare.com/branch-predictor/)
+
+## 本周音乐推荐
+
+- 作品名： `Mendelssohn Piano Concerto No.1`
+- 中文名： `门德尔松第一钢琴协奏曲`
+- 作品编号：Op.25
+- 风格： 古典 - 浪漫主义
+- 收听链接： [IMSLP](https://imslp.org/wiki/Piano_Concerto_No.1%2C_Op.25_(Mendelssohn%2C_Felix))
