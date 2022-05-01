@@ -146,7 +146,6 @@ socialMediaLinks = [
   {link = "https://github.com/hitszlug", icon = "fab fa-github"},
   {link = "https://t.me/hitszlug", icon = "fab fa-telegram"},
   {link = "https://qm.qq.com/cgi-bin/qm/qr?k=EmOyWeZrOaOeSoVrVLoozyKYdvjOia_t", icon = "fab fa-qq"},
-  {link = "https://weekly.hitsz.org/index.xml", icon = "fas fa-rss"},
 ]
 
 # credits line configuration
