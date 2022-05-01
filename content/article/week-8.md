@@ -303,9 +303,7 @@ https://surveys.jetbrains.com/s3/t-developer-ecosystem-survey-2022
 - 支持播放付费内容 (如果你有 VIP 账号的话)
 - 类 VIM 交互
 
-搭配 easyeffects 使用更佳. Easyeffects 是 pipewire 下一个非常好用的合成器：
-
-[easyeffects](https://github.com/wwmm/easyeffects)
+搭配 [easyeffects](https://github.com/wwmm/easyeffects) 使用更佳. Easyeffects 是 pipewire 下一个非常好用的合成器：
 
 助您成为 **10x 音 le 人**！
 
@@ -337,5 +335,5 @@ https://www.zhihu.com/question/27834147/answer/38337425
 ### 群主看了啥
 
 - [Transparently running binaries from any architecture in Linux with QEMU and binfmt_misc](https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/)
-- [What's new in CPUs since the 80s?](https://danluu.com/new-cpu-features/)
+- [What is new in CPUs since the 80s?](https://danluu.com/new-cpu-features/)
 - [hughperkins/VeriGPU: OpenSource GPU, in Verilog, loosely based on RISC-V ISA](https://github.com/hughperkins/VeriGPU)
