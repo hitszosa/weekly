@@ -191,3 +191,4 @@ startLevel = 2
 # Fix magic
 [markup.highlight]
 codeFences = false
+
