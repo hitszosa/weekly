@@ -33,6 +33,7 @@ paginate = 7
 # Enable / Disable MathJax
 enable_mathjax = false
 
+
 # Enable / Disable algolia search
 algolia_search    = true
 algolia_appId     = "PSCK7OYZ69"
@@ -190,3 +191,4 @@ startLevel = 2
 # Fix magic
 [markup.highlight]
 codeFences = false
+
