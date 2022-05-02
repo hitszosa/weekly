@@ -1,6 +1,5 @@
-public/
+# public/
 hugo.exe
-
 
 # macOS
 *.DS_Store
