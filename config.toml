@@ -186,3 +186,7 @@ unsafe = false
 endLevel = 5
 ordered = false
 startLevel = 2
+
+# Fix magic
+[markup.highlight]
+codeFences = false
