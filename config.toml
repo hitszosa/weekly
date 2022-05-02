@@ -88,7 +88,7 @@ customImage = "/assets/logo.svg"
 overlayIcon = "fa-home"
 
 # always display the top navigation (with pages and search) on non-mobile screens
-permanentTopNav = true
+permanentTopNav = false
 
 # always display the top navigation when scrolling
 # works only with permanentTopNav = true
@@ -191,4 +191,3 @@ startLevel = 2
 # Fix magic
 [markup.highlight]
 codeFences = false
-
