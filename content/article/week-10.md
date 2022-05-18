@@ -1063,3 +1063,17 @@ w
 
 - [Linux insides](https://0xax.gitbooks.io/linux-insides/content/)
 - [ZFS without a Server Using the NVIDIA BlueField-2 DPU](https://www.servethehome.com/zfs-without-a-server-using-the-nvidia-bluefield-2-dpu-nvme-arm-aic-iscsi/)
+
+## 🎵 本周音乐推荐
+
+- 作品名：ゴローンゴローン～フンコロガシ～
+- 专辑：?
+- 作词 : Nem
+- 演唱：[鎖那](https://music.163.com/artist?id=1002089) / [ﾎﾛﾎﾛ鳥](https://music.163.com/artist?id=12131302)
+- 作曲：Nem
+- 演奏：?
+- 专辑流派：?
+- 收听链接：https://music.163.com/#/song?id=409941268
+
+
+滚啊滚啊 Archlinux
