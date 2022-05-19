@@ -1059,7 +1059,7 @@ w
 
 博主通过物理计算计算出了当温度趋向正无穷时，物体的颜色会是怎么样的。
 
-省流：是 [![#94B1FF](https://img.shields.io/badge/-%2394B1FF-%2394B1FF?style=for-the-badge)](https://www.htmlcsscolor.com/hex/94B1FF)
+省流：是 ![#94B1FF](https://img.shields.io/badge/-%2394B1FF-%2394B1FF?style=for-the-badge)
 
 <https://johncarlosbaez.wordpress.com/2022/01/16/the-color-of-infinite-temperature/>
 
