@@ -2,7 +2,7 @@
 title: "First Law of Sh*t Mountain Theory"
 date: 2022-05-21T00:47:07+08:00
 
-author: "Amess, 著名 coder, 于 2022.05.08, lug"
+author: "Amess"
 categories: ['成员语录']
 ---
 
