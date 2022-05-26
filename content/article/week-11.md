@@ -119,7 +119,7 @@ T2 的公共实验室晚上一般是会赶人的，但是如果是那种刷卡�
 
 群友 C: 之前美国不是有个人研究出来黑心脏起搏器的方法了，然后在他公布的前一天被暗杀了
 
-群友 D: 黑个心脏起搏器不比直接人麻烦
+群友 D: 黑个心脏起搏器不比直接🔪人麻烦
 
 群友 A: 起搏器本来就很脆（
 
@@ -451,5 +451,15 @@ Niche 是法语中的小众的意思，这里指使用小众技术栈的程序�
 > 
 > This was an amazing revelation to me because I had gotten used to the interview process being something similar to a prostitution ring where nobody cares about my open-source projects and most of the time nobody even actually read my CV.
 
-
 <https://ano.ee/blog/the-niche-programmer>
+
+## 🎵 本周音乐推荐
+
+- 作品名：再生
+- 专辑：再生
+- 作词 : 中田ヤスタカ
+- 演唱：Perfume
+- 作曲：中田ヤスタカ
+- 演奏：?
+- 专辑流派：?
+- 收听链接：https://music.163.com/#/song?id=1406598531
