@@ -7,6 +7,8 @@ date: 2022-05-26T15:51:21Z
 
 本周群友去喝早茶了捏，分发了 LUG 贴纸和 VaalaCat 贴纸。
 
+（某位群友眼睛的色觉进一步减弱了，导致造成了一些颜色误会）
+
 ## 本周群聊
 
 ### 字节跳动内推码
@@ -16,6 +18,18 @@ date: 2022-05-26T15:51:21Z
 看起来字节跳动的福利确实很不错。
 
 链接详见 Telegram 群聊。
+
+### 二次元 Git 教科书
+
+《跟 Wakaba 酱一起学 Git 使用》
+
+> 建议作为 HIT 教材使用
+
+参见：<https://item.jd.com/13047666.html>
+
+### 广义 CRUD
+
+> 就是照着文档增删改查，实现一些需求。
 
 ### Easton 是什么意思
 
@@ -55,6 +69,12 @@ date: 2022-05-26T15:51:21Z
 
 参见：<https://www.ithome.com/0/626/885.htm>
 
+### Linus Torvalds 资瓷 Linux 内核拥抱 Rust
+
+可惜短时间内应该无法完全代替 C。
+
+参见：<https://www.zdnet.com/article/linus-torvalds-is-cautiously-optimistic-about-bringing-rust-into-the-linux-kernels-next-release/>
+
 ## 本周看了啥
 
 ### Why linear address spaces are unsafe at any speed
@@ -64,6 +84,10 @@ date: 2022-05-26T15:51:21Z
 ### 回答的艺术（简中）
 
 参见：<https://github.com/ProjectDimlight/The-Art-Of-Giving-Answers/blob/main/回答的艺术简中.md>
+
+### 30 days of JavaScript
+
+参见：<https://github.com/Asabeneh/30-Days-Of-JavaScript>
 
 ## 本周音乐推荐
 
