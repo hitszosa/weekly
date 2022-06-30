@@ -49,6 +49,14 @@ date: 2022-05-26T15:51:21Z
 
 据另一位群友说，有位 ZJU 的同学接了一个迪拜的单子，关于咨询 Rclone 用法的，赚了 15 USD。
 
+### 新的贴纸与彩蛋
+
+时至 Pride Month（其实是找个借口罢了），LUG 新增 transgender 风格的贴纸。与此同时，落地页新增了一个彩蛋。
+
+贴纸仓库：<https://github.com/hitszlug/hitsz-lug-stickers>
+
+落地页：<https://lug.pub>
+
 ### 2022 开源操作系统训练营
 
 某位群友帮老师转发的一个 Rust 操作系统开发训练营项目，与 LUG 无任何 affiliation。
