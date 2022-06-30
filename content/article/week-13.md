@@ -9,13 +9,33 @@ date: 2022-05-26T15:51:21Z
 
 ## 本周群聊
 
+### 字节跳动内推码
+
+某位在字节跳动实习的群友分享了内推链接，速速进厂！
+
+链接详见 Telegram 群聊。
+
 ### Easton 是什么意思
 
 > Easton 就是 Easton
 
 据考究，应该只是一个地名而已。
 
+### NIC Fellows 开奖了吗
 
+已经过去了很多天，然而依然不知道某群友是否被网络与计算中心录用为助管。
+
+### 70 元到手
+
+某群友接了一个单，转手给了另一位群友，帮忙转换 MATLAB 代码到 Python 代码，成功获得 70 CNY。
+
+据另一位群友说，有位 ZJU 的同学接了一个迪拜的单子，关于咨询 Rclone 用法的，赚了 15 USD。
+
+### 2022 开源操作系统训练营
+
+某位群友帮老师转发的一个 Rust 操作系统开发训练营项目，与 LUG 无任何 affiliation。
+
+参见：<https://github.com/LearningOS/rust-based-os-comp2022>
 
 ## 本周旧闻慢递
 
@@ -36,6 +56,10 @@ date: 2022-05-26T15:51:21Z
 ### Why linear address spaces are unsafe at any speed
 
 参见：<https://queue.acm.org/detail.cfm?id=3534854>
+
+### 回答的艺术（简中）
+
+参见：<https://github.com/ProjectDimlight/The-Art-Of-Giving-Answers/blob/main/回答的艺术简中.md>
 
 ## 本周音乐推荐
 
