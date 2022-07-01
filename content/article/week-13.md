@@ -85,6 +85,12 @@ date: 2022-05-26T15:51:21Z
 
 参见：<https://www.zdnet.com/article/linus-torvalds-is-cautiously-optimistic-about-bringing-rust-into-the-linux-kernels-next-release/>
 
+### Firefox 阻止通过 IP 地址访问部分端口
+
+理由是这些端口不应该被用于网页浏览用途。
+
+参见：<https://www-archive.mozilla.org/projects/netlib/portbanning>
+
 ## 本周看了啥
 
 ### Why linear address spaces are unsafe at any speed
