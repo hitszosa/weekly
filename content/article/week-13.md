@@ -53,7 +53,7 @@ date: 2022-05-26T15:51:21Z
 
 ### 新的贴纸与彩蛋
 
-时至 Pride Month（其实是找个借口罢了），LUG 新增 transgender 风格的贴纸。与此同时，落地页新增了一个彩蛋。
+时值 Pride Month（其实是找个借口罢了），LUG 新增 transgender 风格的贴纸。与此同时，落地页新增了一个彩蛋。
 
 贴纸仓库：<https://github.com/hitszlug/hitsz-lug-stickers>
 
