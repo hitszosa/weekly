@@ -105,6 +105,10 @@ date: 2022-05-26T15:51:21Z
 
 参见：<https://github.com/Asabeneh/30-Days-Of-JavaScript>
 
+### RISC-V is getting MSIs
+
+参见：<https://blog.stephenmarz.com/2022/06/30/msi>
+
 ## 本周音乐推荐
 
 - 作品名：Obstacles
