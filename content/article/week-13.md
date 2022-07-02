@@ -1,6 +1,7 @@
 ---
 title: "Week 13"
-date: 2022-07-02T15:51:21Z
+date: 2022-07-01T15:51:21Z
+draft: false
 ---
 
 ## 本周活动
