@@ -120,7 +120,7 @@ ip route del 10.249.8.0/21 dev eno1
 
 编者写在《C++20 高级编程》出版之时的一篇文章。
 
-参见：<https://netcan.github.io/2022/06/22/如何出版一本技术图书-写在《C-20 高级编程》出版之时/>
+参见：<https://netcan.github.io/2022/06/22/如何出版一本技术图书-写在《C-20高级编程》出版之时/>
 
 ### A Brief, Incomplete, and Mostly Wrong History of Programming Languages
 
@@ -140,4 +140,4 @@ ip route del 10.249.8.0/21 dev eno1
 - 制作人：永井祐介
 - 发行时间：2004 年 2 月 11 日
 - 专辑流派：混合爵士、日本流行
-- 收听链接：<https://music.163.com/song?id=25723363&userid=466590931>
+- 收听链接：<https://music.163.com/song?id=25723363>
