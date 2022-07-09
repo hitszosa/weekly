@@ -59,6 +59,8 @@ draft: false
 
 呃呃。
 
+另外某折纸酱倾情推荐一 GNOME 主题：[Nord-dotfiles](https://github.com/botsunny/nord_dotfiles)
+
 ### NIC 助管
 
 网络与计算中心回复邮件了，内容大致如下：
@@ -66,6 +68,16 @@ draft: false
 > 您的简历我们已经收到，感谢您的投递。
 > 
 > 后续我们会通过电话联系您，还请留意。
+
+> 小半个月，这就是深圳速度！
+
+> ~~话说这是否说明 NIC 事实上节奏慢悠悠所以其实可以收钱不干活？~~
+
+### TG 小游戏
+
+在 Telegram 搜索 [@gamee](https://t.me/gamee), 将其拉入群聊即可与群友爽打小游戏！快来选出你们群里的游戏头子吧 (
+
+> 摸鱼虽好，可不要贪杯哦
 
 ## 本周旧闻慢递
 
@@ -81,13 +93,34 @@ Lennart Poettering 为 systemd 和 PulseAudio 的创建者和主要开发者。
 
 参见：<https://www.phoronix.com/scan.php?page=news_item&px=Lennart-Poettering-Out-Red-Hat>
 
+## 本周 Bug
+
+### 本周校园网问题
+
+鉴于你校校园网的**, 某两群友在实验室开了台机子跑 OpenWRT 负责多拨 + 魔法，然后改自己机子的网关到那台机子上。某天，他们忽然发现校园网内网地址不能上了！
+
+经过摇人检测 + 玄妙 Debug, 两人终于确定了问题所在. 当使用旁路由时, 客户端的机子的路由表如下:
+
+```
+default via <旁路由IP地址> dev eno1 proto static metric 100 
+10.249.8.0/21 dev eno1 proto kernel scope link src <本机IP> metric 100 
+```
+
+当访问内网地址时, 默认走了第二条规则, 也就是包发到学校网关去了. 而因为在使用旁路由时要指定网关, 两人的机子都是静态 IP, 没有向学校网关发送 DHCP; 而学校网关可能是根据 DHCP 表里的条目来判断机子是否 "合法" 的. 由于两人的机子的 IP 并没有在学校网关的 DHCP 表内, 因此发出去的包就被学校网关丢掉了, 自然就访问不到其他内网服务了.
+
+解决方法很简单, 删除第二条路由表规则, 让所有请求都向发到旁路由上再转发即可.
+
+```
+ip route del 10.249.8.0/21 dev eno1
+```
+
 ## 本周看了啥
 
 ### 如何出版一本技术图书
 
 编者写在《C++20 高级编程》出版之时的一篇文章。
 
-参见：<https://netcan.github.io/2022/06/22/如何出版一本技术图书-写在《C-20高级编程》出版之时/>
+参见：<https://netcan.github.io/2022/06/22/如何出版一本技术图书-写在《C-20 高级编程》出版之时/>
 
 ### A Brief, Incomplete, and Mostly Wrong History of Programming Languages
 
@@ -101,7 +134,7 @@ Lennart Poettering 为 systemd 和 PulseAudio 的创建者和主要开发者。
 
 ## 本周音乐推荐
 
-- 作品名：最終列車は25時
+- 作品名：最終列車は 25 時
 - 专辑：恋人へ
 - 艺术家：Lamp (7)
 - 制作人：永井祐介
