@@ -120,7 +120,7 @@ ip route del 10.249.8.0/21 dev eno1
 
 编者写在《C++20 高级编程》出版之时的一篇文章。
 
-参见：<https://netcan.github.io/2022/06/22/如何出版一本技术图书-写在《C-20高级编程》出版之时/>
+参见：<https://netcan.github.io/2022/06/22/%E5%A6%82%E4%BD%95%E5%87%BA%E7%89%88%E4%B8%80%E6%9C%AC%E6%8A%80%E6%9C%AF%E5%9B%BE%E4%B9%A6-%E5%86%99%E5%9C%A8%E3%80%8AC-20%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E3%80%8B%E5%87%BA%E7%89%88%E4%B9%8B%E6%97%B6/>
 
 ### A Brief, Incomplete, and Mostly Wrong History of Programming Languages
 
@@ -130,7 +130,7 @@ ip route del 10.249.8.0/21 dev eno1
 
 ### 总工程师 42 岁移民从工人做起，活出精彩人生 - 观后感
 
-参见：<https://zwt.one/总工程师-42-岁移民从工人做起活出精彩人生--观后感>
+参见：<https://zwt.one/%E6%80%BB%E5%B7%A5%E7%A8%8B%E5%B8%88-42-%E5%B2%81%E7%A7%BB%E6%B0%91%E4%BB%8E%E5%B7%A5%E4%BA%BA%E5%81%9A%E8%B5%B7%E6%B4%BB%E5%87%BA%E7%B2%BE%E5%BD%A9%E4%BA%BA%E7%94%9F--%E8%A7%82%E5%90%8E%E6%84%9F>
 
 ## 本周音乐推荐
 
