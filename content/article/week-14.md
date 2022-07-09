@@ -35,10 +35,6 @@ draft: false
 > 目前最难用的一种 TTY。
 > 同事或同学操作电脑配环境、写代码、控制 terminal 等，而你负责用聊天窗协助，把聊天窗口作为人力 TTY 使用。这个 TTY 不仅会敲错、违抗命令，还会闲聊问一大堆问题，是最难用的 TTY 之一。
 
-### Floating-point arithmetic – all you need to know, explained interactively
-
-参见：<https://matloka.com/blog/floating-point-101>
-
 ### 机器学习本质论
 
 > **CS 4620**
@@ -121,6 +117,10 @@ ip route del 10.249.8.0/21 dev eno1
 编者写在《C++20 高级编程》出版之时的一篇文章。
 
 参见：<https://netcan.github.io/2022/06/22/%E5%A6%82%E4%BD%95%E5%87%BA%E7%89%88%E4%B8%80%E6%9C%AC%E6%8A%80%E6%9C%AF%E5%9B%BE%E4%B9%A6-%E5%86%99%E5%9C%A8%E3%80%8AC-20%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E3%80%8B%E5%87%BA%E7%89%88%E4%B9%8B%E6%97%B6/>
+
+### Floating-point arithmetic – all you need to know, explained interactively
+
+参见：<https://matloka.com/blog/floating-point-101>
 
 ### A Brief, Incomplete, and Mostly Wrong History of Programming Languages
 
