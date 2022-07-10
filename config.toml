@@ -1,6 +1,6 @@
-baseURL = "/"
-theme = "bilberry-hugo-theme"
 title = "LUG Weekly"
+theme = "bilberry-hugo-theme"
+baseURL = "https://weekly.hitsz.org/"
 
 # Generate the robots.txt file for SEO
 enableRobotsTXT = true
@@ -33,11 +33,10 @@ paginate = 7
 # Enable / Disable MathJax
 enable_mathjax = false
 
-
 # Enable / Disable algolia search
-algolia_search    = true
-algolia_appId     = "PSCK7OYZ69"
-algolia_apiKey    = "2a4435c26d4a6227d41caa9bf6cb59ee"
+algolia_search = true
+algolia_appId = "PSCK7OYZ69"
+algolia_apiKey = "2a4435c26d4a6227d41caa9bf6cb59ee"
 algolia_indexName = "hitsz-lug-weekly"
 # Set this option to false if you want to search within all articles in all languages at once
 algolia_currentLanguageOnly = false
@@ -144,18 +143,18 @@ archiveDateGrouping = "2006-01"
 # all icons https://fontawesome.com/icons?d=gallery&m=free
 # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
 socialMediaLinks = [
-  {link = "https://github.com/hitszlug", icon = "fab fa-github"},
-  {link = "https://t.me/hitszlug", icon = "fab fa-telegram"},
-  {link = "https://qm.qq.com/cgi-bin/qm/qr?k=EmOyWeZrOaOeSoVrVLoozyKYdvjOia_t", icon = "fab fa-qq"},
+  { link = "https://github.com/hitszlug", icon = "fab fa-github" },
+  { link = "https://t.me/hitszlug", icon = "fab fa-telegram" },
+  { link = "https://qm.qq.com/cgi-bin/qm/qr?k=EmOyWeZrOaOeSoVrVLoozyKYdvjOia_t", icon = "fab fa-qq" },
 ]
 
 # credits line configuration
-copyrightBy = "CC BY-NC-SA 4.0 by HITsz LUG" 
-copyrightUrl = "https://github.com/hitszlug" 
-copyrightUseCurrentYear = true # set to true to always display the current year in the copyright
-copyrightYearOverride = "2022" 
-creditsText = "Modified Bilberry" 
-creditsUrl = "https://github.com/hitszlug/bilberry-hugo-theme" 
+copyrightBy = "CC BY-NC-SA 4.0 by HITsz LUG"
+copyrightUrl = "https://github.com/hitszlug"
+copyrightUseCurrentYear = true                                 # set to true to always display the current year in the copyright
+copyrightYearOverride = "2022"
+creditsText = "Modified Bilberry"
+creditsUrl = "https://github.com/hitszlug/bilberry-hugo-theme"
 
 # customize your available languages for your multi-lingual site
 # or delete the [Languages] blog to use the theme with only one supported language
