@@ -26,6 +26,18 @@ draft: false
 
 参见：<https://en.wiktionary.org/wiki/夕暮れ>
 
+### 游戏社团
+
+由于群友们高频在 Telegram 群聊聊中玩 Gamee 小游戏，遂将群名从「HITsz LUG | 🏳️‍🌈」改为「HITsz LUG | 🏳️‍🌈🎮」
+
+> A: 不玩游戏没事干
+> 
+> B: A 来学数理逻辑
+> 
+> B: 很好玩的
+> 
+> B: 来看这本书
+
 ## 本周旧闻慢递
 
 ## 本周看了啥
