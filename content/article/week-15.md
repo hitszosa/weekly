@@ -16,6 +16,16 @@ draft: false
 
 众所周知，宇宙中质量最大的物质并不是黑洞，而是 `node_modules/`。
 
+### 夕暮是什么意思
+
+某群友还以为夕暮指的是早上和晚上。事实上，夕暮指的是黄昏捏。
+
+> 夕暮れ • (yūgure) 
+> 
+> evening twilight, evening when the sun goes down
+
+参见：<https://en.wiktionary.org/wiki/夕暮れ>
+
 ## 本周旧闻慢递
 
 ## 本周看了啥
