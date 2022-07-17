@@ -38,6 +38,29 @@ draft: false
 > 
 > B: 来看这本书
 
+### Git 的近似命令
+
+有如下几条命令：
+
+```bash
+git pull
+git fetch --all
+git remote update
+```
+
+都有哪些区别呢？官方文档并没有说明清楚，可以参考 <https://stackoverflow.com/questions/17712468/what-is-the-difference-between-git-remote-update-git-fetch-and-git-pull>。
+
+### Rust 的若干种「引用范式」
+
+报菜名：`*mut T`、`*const T`、`Box<T>`、`Rc<T>`、`Arc<T>`、`Cell<T>`、`RefCell<T>`、`Cow<T>`、`String`、`Vec<T>`、`RawVec<T>`、`Unique<T>`、`Shared<T>`。你学会了吗？（大雾）
+
+原出处：《Rust in Action》
+
+### 友链分享
+
+如下：
+<vaala.cat>、<blog.imakiseki.cf>、<blog.kquark.com>、<blog.origami404.top>、<blog.sorashu.tech>、<hopp.top>。
+
 ## 本周旧闻慢递
 
 ## 本周看了啥
