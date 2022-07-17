@@ -59,9 +59,37 @@ git remote update
 ### 友链分享
 
 如下：
-<vaala.cat>、<blog.imakiseki.cf>、<blog.kquark.com>、<blog.origami404.top>、<blog.sorashu.tech>、<hopp.top>。
+<vaala.cat>、<blog.imakiseki.cf>、<blog.kquark.com>、<blog.origami404.top>、<blog.sorashu.tech>、<hopp.top>、<roy1994.top>、<huangblog.com>。
+
+> 某群友评价 `blog.sorashu.tech`：一眼 SUSTech。
+
+### Kwin 崩崩崩
+
+> 实际测试多次发现，一个窗口启动超过一段时间后容易出现抖动、掉帧的 bug。已经在 Telegram、Haruka Player、VLC Player、MPV Player、Plasma、VS Code 上复现。
+
+某群友建议抛弃 KDE Plasma，改用 Sway 自搭桌面环境。除了休眠有点不正常以外，Sway 非常地稳定，~~非常地新鲜~~。
+
+### 这就是精英教育
+
+某群友发明了「精英教育不等式」：
+
+> 那没办法啊，人家和国际一流教育接轨，花5000块享受几万刀的教育，属实赢麻。
+>
+> USTC 坏，每年招 1700 壬，还不给安徽照顾。
+> 
+> 全国人民的 USTC！比清北好。
+>
+> 这就是精英教育！
+>
+> 5000 CNY > 30000 USD
 
 ## 本周旧闻慢递
+
+### AMD 船新胶水 CPU
+
+> 草，这个大小有点哈人。
+
+参见：<https://www.cnbeta.com/articles/tech/1290773.htm>
 
 ## 本周看了啥
 
@@ -70,6 +98,14 @@ git remote update
 相关冷知识：`0xFEE1DEAD` 是 Linux 中的 reboot system call。
 
 参见：<https://en.wikipedia.org/wiki/Hexspeak>
+
+### 反人类交互设计网站
+
+反向 UI/UX！
+
+> 看了一眼那个设计师低血压良药。
+
+参见：<https://userinyerface.com>
 
 ## 本周音乐推荐
 
