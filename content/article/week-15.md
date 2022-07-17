@@ -107,6 +107,10 @@ git remote update
 
 参见：<https://userinyerface.com>
 
+### CTF 入门索引
+
+参见：<https://wiki.vaa.la/share/02984f34-8c4c-4c01-a29d-e0aeed41fe1d>
+
 ## 本周音乐推荐
 
 - 作品名：
