@@ -370,7 +370,7 @@ git remote update
 ### 友链分享
 
 如下：
-<vaala.cat>、<blog.imakiseki.cf>、<blog.kquark.com>、<blog.origami404.top>、<blog.sorashu.tech>、<hopp.top>、<roy1994.top>、<huangblog.com>。
+<https://vaala.cat>、<https://blog.imakiseki.cf>、<https://blog.kquark.com>、<https://blog.origami404.top>、<https://blog.sorashu.tech>、<https://hopp.top>、<https://roy1994.top>、<https://huangblog.com>。
 
 > 某群友评价 `blog.sorashu.tech`：一眼 SUSTech。
 
