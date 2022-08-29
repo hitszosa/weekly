@@ -422,11 +422,15 @@ git remote update
 
 参见：<https://wiki.vaa.la/share/02984f34-8c4c-4c01-a29d-e0aeed41fe1d>
 
+### 群主看了啥
+- VIPT L1 Cache 继续增大时解决重名的办法 [Why the big L1 Cache is so hard](https://blog.cyyself.name/why-the-big-l1-cache-is-so-hard/)
+- 上面文章大佬的龙芯杯工作开源: [GitHub](https://github.com/Maxpicca-Li/CDIM/tree/cyy_vipt_test)
+- 群主的: [龙芯杯参赛总结](https://blog.eastonman.com/blog/2022/08/nscscc2022/)
+
 ## 本周音乐推荐
 
-- 作品名：
-- 专辑：
-- 艺术家：
-- 发行时间：
-- 专辑流派：
-- 收听链接：
+- 作品名：Mozart Violin Concerto No.3
+- 艺术家：Mozart
+- 发行时间：1962
+- 专辑流派：古典-古典主义时期
+- 收听链接：[IMSLP](https://imslp.org/wiki/Violin_Concerto_No.3_in_G_major%2C_K.216_(Mozart%2C_Wolfgang_Amadeus))
